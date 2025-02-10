@@ -1,0 +1,1 @@
+{"ipmi_executable": "C:\\ipmi\\ipmitool.exe", "Dell 720": {"ip": "192.168.1.30", "user": "root", "password": "mike3347"}, "TrueNas": {"ip": "192.168.1.90", "user": "mike", "password": "mike3347"}, "Dell 710": {"ip": "192.168.1.55", "user": "root", "password": "mike3347"}, "C2100": {"ip": "192.168.1.60", "user": "mike", "password": "mike3347"}}
