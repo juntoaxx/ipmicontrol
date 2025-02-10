@@ -59,5 +59,9 @@ The IPMI Control Application is a graphical user interface (GUI) tool that allow
 ## Configuration File
 The machine configurations are stored in the `machines_config.json` file. This file is automatically created and updated by the application.
 
+## External Softwware Requirements
+This is the Dell official link you need this tool to communicate with BMC. My tool sends commands to this executble and it executes against the machines.
+https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=m63f3
+
 ## License
 This project is licensed under the MIT License.
